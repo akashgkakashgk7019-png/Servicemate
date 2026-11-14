@@ -1,0 +1,8 @@
+{
+  "name": "Remix Service Mates - All-in-One Service Booking Platform",
+  "description": "Comprehensive all-in-one home, personal, technical, and vehicle service booking platform with real-time GPS tracking, dynamic UPI QR payments, phone OTP verification, and multi-role dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
